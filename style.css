@@ -1,0 +1,219 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    background: url('./Main.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+}
+
+section{
+padding-top: 100px;
+}
+
+/* Clean House */
+
+.service-card {
+    text-align: center;
+    padding: 20px;
+    background-color:#628796;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.service-card h5 {
+    margin-top: 15px;
+}
+
+.blue-section {
+    background-color: #acafae;
+    color: #ffffff;
+    padding: 40px 20px;
+}
+
+.blue-section h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.section1 { 
+     background:#789ae69f;
+} 
+
+/* Clean House */
+
+/* Tradition Section  */
+.icon-circle {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #f8f9fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+  }
+  .section-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+/* Tradition Section  */
+
+/* Our Great service  */
+.Great{
+    background-image: url('./Need.avif');
+    height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+  .service-card1 {
+background-color: #628796; /* Light blue */
+color: white;
+padding: 20px;
+margin: 10px;
+border-radius: 8px;
+}
+.service-card h4 {
+font-weight: bold;
+}
+.service-card p {
+margin: 0;
+}
+.service-section {
+background-color: #e0f7fa; /* Background light blue */
+padding: 50px 20px;
+}
+
+/* Our Great Service  */
+  
+/* our team  */
+.card-img-top {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border: 2px solid #ddd;
+    }
+    .card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    border: none;
+    }
+    .card-body {
+    text-align: center;
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    }
+    .team-section {
+    padding: 60px 0;
+    }
+    #ourteam {
+    font-size: large;
+    }
+
+    /* our team  */
+
+    /* Need Help  */
+    .banner {
+        background: url('./need2.jpg') no-repeat center ;
+        background-size: cover;
+        height: 450px;
+        text-align: center;
+        padding: 50px 20px;
+      }
+      .banner img {
+        max-width: 100px;
+      }
+      .banner h2, .banner p {
+        color: #333;
+      }
+      .btn-custom {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+      }
+      /* Need Help  */
+      /* smile section  */
+      .smile{
+        background:#789ae69f;
+        height: 200px;
+        background-repeat: no-repeat;
+        background-size: cover;
+
+      }
+
+      .stat-box {
+  border: 1px solid #eaeaea;
+  padding: 20px;
+  margin-top: 10%;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0 5px 6px rgba(0, 0, 0, 0.5);
+}
+
+.stat-box .icon {
+  width: 40px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  color: #007bff;
+  margin: 10px 0;
+}
+
+#help {
+  color: #6c757d;
+  margin: 0;
+}  
+/* smile section  */
+
+/* Recent News  */
+.news-card {
+    border: none;
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+}
+
+.news-date {
+    background-color: #007bff;
+    color: white;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px 15px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.news-card img {
+
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+.news-body {
+    padding: 20px;
+}
+
+.news-body h5 {
+    font-weight: bold;
+}
+
+.news-author img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.news-author {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+/* Recent news  */
